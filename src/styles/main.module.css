@@ -1,0 +1,45 @@
+.gridFour{
+    border: 1px solid pink;
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+    top:300px;
+}
+
+
+.topTwoBlock{
+    display: flex;
+    flex-direction: row;
+
+  }
+
+
+.topTwoBlock div{
+    margin-right: 25px;
+    border:2px solid black;
+    margin: 0 auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50%;
+    height: 500px;
+}
+
+@media screen and (max-width: 940px) {
+    .topTwoBlock{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        justify-content: center;
+    
+      }
+
+      .topTwoBlock div{
+        position: relative;
+        width: 95%;
+        margin-top: 50px;
+    }
+    
+
+
+
+}
