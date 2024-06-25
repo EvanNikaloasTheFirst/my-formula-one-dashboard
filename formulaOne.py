@@ -100,3 +100,6 @@ def fetch_f1_results():
 
 if __name__ == "__main__":
     app.run(debug=True, port=8080)
+
+
+#  To run script
