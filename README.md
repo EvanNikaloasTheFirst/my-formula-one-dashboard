@@ -30,5 +30,6 @@ Check Points
 - [ ] Complete Integration testing
 
 
+-------------
 ![Designer (14)](https://github.com/EvanNikaloasTheFirst/my-formula-one-dashboard/assets/94329210/ceafcfce-aed6-476e-874b-6b8443a6225d)
 
