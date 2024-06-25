@@ -3,7 +3,7 @@
 Building this project using NextJS, CSS, A little bit of materialUI as well as python to deal with the backend! 🏁
 
 ## About the project ✨
--------------
+
 The dashboard display interesting data all about the current and past F1 Season, allowing users to track the current constructors and driver's championships. Comparing driver information. As well as following your favourite driver and contructor. The motivation behind this project was to become familiar with Python and combining it with my passion for Formula One, it was the perfect excuse to build this project.
 
 ## Technologies 
